@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">networkreceiver</string>
+    <string name="welcome_to_network_app">Welcome to network app</string>
+</resources>
